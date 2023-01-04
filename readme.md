@@ -8,6 +8,3 @@ guide] (http://easeinpos.com)
 ## Security Vulnerabilities
 If you discover a security vulnerability within EaseIN POS, please send an e-mail to support at 
 info@EaseIN pos.com. All security vulnerabilities will be promptly addressed.
-## License
-EaseIN software is licensed under the [Code canyon
-license](https://codecanyon.net/licenses/standard).
