@@ -1,4 +1,4 @@
-## About Ultimate POS
+## About EaseIN POS
 EaseIN POS is a Powerful POS Software by [EaseIN] (http://easeinpos.com), a brand of [EaseIN]
 (http://easeinpos.com).
 ## Installation & Documentation
